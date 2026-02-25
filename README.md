@@ -69,6 +69,10 @@ Construir um dashboard que permita:
 ![Performance das Campanhas](assets/img/03-performance-campanhas.png)
 
 ---
+## 📎 Relatório em PDF
+- Versão exportada do dashboard: `assets/pdf/dashboard-marketing.pdf`
+
+- ---
 
 ## 📌 Considerações Finais
 Este projeto foi desenvolvido com foco em **visualização clara**, **pensamento analítico** e **comunicação de insights**, simulando um cenário real de BI aplicado ao marketing para apoiar decisões estratégicas.
