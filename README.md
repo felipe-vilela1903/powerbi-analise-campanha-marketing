@@ -70,7 +70,7 @@ Construir um dashboard que permita:
 
 ---
 ## 📎 Relatório em PDF
-- Versão exportada do dashboard: `assets/pdf/dashboard-marketing.pdf`
+- Versão exportada do dashboard: [dashboard-marketing.pdf](assets/pdf/dashboard-marketing.pdf)
 
 - ---
 
