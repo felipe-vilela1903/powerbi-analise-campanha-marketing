@@ -59,6 +59,9 @@ Construir um dashboard que permita:
 
 ## 🖼️ Dashboard
 
+### Link do Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiYThjMzM3ZWYtOTFiYS00MWY4LTg0ZTEtNWZlODIwYjc4NzcyIiwidCI6Ijk4YjAyZTQ5LWU1NzEtNGZjYi1hODBjLTBiMTA3Y2E0YzdkMCJ9
+
 ### 1) Visão Cliente
 ![Visão Cliente](assets/img/01-visao-cliente.png)
 
