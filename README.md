@@ -60,7 +60,7 @@ Construir um dashboard que permita:
 ## 🖼️ Dashboard
 
 ### Link do Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiYThjMzM3ZWYtOTFiYS00MWY4LTg0ZTEtNWZlODIwYjc4NzcyIiwidCI6Ijk4YjAyZTQ5LWU1NzEtNGZjYi1hODBjLTBiMTA3Y2E0YzdkMCJ9
+[https://app.powerbi.com/view?r=eyJrIjoiYThjMzM3ZWYtOTFiYS00MWY4LTg0ZTEtNWZlODIwYjc4NzcyIiwidCI6Ijk4YjAyZTQ5LWU1NzEtNGZjYi1hODBjLTBiMTA3Y2E0YzdkMCJ9](https://app.powerbi.com/view?r=eyJrIjoiYjUwOTViYmItMWJkOS00N2RmLWFmY2UtZTBkZGE0NWY5NzJiIiwidCI6Ijk4YjAyZTQ5LWU1NzEtNGZjYi1hODBjLTBiMTA3Y2E0YzdkMCJ9)
 
 ### 1) Visão Cliente
 ![Visão Cliente](assets/img/01-visao-cliente.png)
@@ -74,6 +74,19 @@ https://app.powerbi.com/view?r=eyJrIjoiYThjMzM3ZWYtOTFiYS00MWY4LTg0ZTEtNWZlODIwY
 ---
 ## 📎 Relatório em PDF
 - Versão exportada do dashboard: [dashboard-marketing.pdf](assets/pdf/dashboard-marketing.pdf)
+
+- ---
+## ⚠️ Observação sobre o dashboard
+
+O dashboard completo foi desenvolvido utilizando o visual de Árvore de Decomposição do Power BI, com o objetivo de analisar a contribuição de diferentes perfis de clientes no total de gastos.
+
+No entanto, ao utilizar a funcionalidade "Publicar na Web", o Power BI apresenta limitações para esse tipo de visual, impedindo sua exibição correta no link público.
+
+Por esse motivo:
+- 📸 O print acima apresenta a versão completa com a Árvore de Decomposição
+- 🌐 O link público contém uma versão adaptada, utilizando gráfico de barras empilhadas para garantir compatibilidade
+
+Essa adaptação mantém a análise principal e reforça a importância de ajustar soluções de visualização conforme as limitações da ferramenta.
 
 - ---
 
